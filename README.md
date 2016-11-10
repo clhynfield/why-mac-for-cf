@@ -1,5 +1,18 @@
 # Why Mac is the right tool for Cloud Foundry development
 
+## Lower TCO than PC
+
+- IBM in 2015: 
+  - [‘Every Mac we buy is making and saving IBM money’ - IBM][1]
+  - [IBM is able to support over 30,000 Mac users with an IT support ratio of 1:5,000][2]
+- IBM in 2016: 
+  - [IBM says it is 3X more expensive to manage PCs than Macs][3] (Saving up to $535 per Mac per four years in comparison to PCs
+)
+
+[1]: http://www.computerworld.com/article/2998315/apple-mac/every-mac-we-buy-is-making-and-saving-ibm-money-ibm.html
+[2]: https://www.jamf.com/resources/mac-ibm-zero-to-30000-in-6-months-highlights/
+[3]: http://www.computerworld.com/article/3131906/apple-mac/ibm-says-macs-are-even-cheaper-to-run-than-it-thought.html
+
 ## Some common tools or starters are completley broken on Windows
 
 ### Filesystem incompatibility with Spring Cloud starters
