@@ -9,9 +9,12 @@
   - [3X more expensive to manage PCs than Macs][3] (Saving up to $535 per Mac per four years in comparison to PCs
 )
 
+> It ends up being $57.3 million more expensive per 100,000 Windows machines, or exactly three times the cost. And this is a conservative number. This represents the best pricing we've ever gotten from Microsoft. ([Fletcher Previn, VP of Workstation as a Service, IBM][4])
+
 [1]: http://www.computerworld.com/article/2998315/apple-mac/every-mac-we-buy-is-making-and-saving-ibm-money-ibm.html
 [2]: https://www.jamf.com/resources/mac-ibm-zero-to-30000-in-6-months-highlights/
 [3]: http://www.computerworld.com/article/3131906/apple-mac/ibm-says-macs-are-even-cheaper-to-run-than-it-thought.html
+[4]: http://www.businessinsider.com/an-ibm-it-guy-macs-are-300-cheaper-to-own-than-windows-2016-10
 
 ## Some common tools or starters are completeley broken on Windows
 
