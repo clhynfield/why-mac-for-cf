@@ -3,10 +3,10 @@
 ## Lower TCO than PC
 
 - IBM in 2015: 
-  - [‘Every Mac we buy is making and saving IBM money’ - IBM][1]
-  - [IBM is able to support over 30,000 Mac users with an IT support ratio of 1:5,000][2]
+  - [‘Every Mac we buy is making and saving money’][1]
+  - [Able to support over 30,000 Mac users with an IT support ratio of 1:5,000][2]
 - IBM in 2016: 
-  - [IBM says it is 3X more expensive to manage PCs than Macs][3] (Saving up to $535 per Mac per four years in comparison to PCs
+  - [3X more expensive to manage PCs than Macs][3] (Saving up to $535 per Mac per four years in comparison to PCs
 )
 
 [1]: http://www.computerworld.com/article/2998315/apple-mac/every-mac-we-buy-is-making-and-saving-ibm-money-ibm.html
