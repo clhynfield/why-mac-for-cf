@@ -4,6 +4,8 @@
 
 ### Filesystem incompatibility with Spring Cloud starters
 
+No idea how to work around this, other than "Don't try to do development on Windows." 
+
 ```shell-session
 % git clone https://github.com/spring-cloud/spring-cloud-stream-app-starters.git
 Cloning into 'spring-cloud-stream-app-starters'...
