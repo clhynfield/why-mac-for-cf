@@ -13,7 +13,7 @@
 [2]: https://www.jamf.com/resources/mac-ibm-zero-to-30000-in-6-months-highlights/
 [3]: http://www.computerworld.com/article/3131906/apple-mac/ibm-says-macs-are-even-cheaper-to-run-than-it-thought.html
 
-## Some common tools or starters are completley broken on Windows
+## Some common tools or starters are completeley broken on Windows
 
 ### Filesystem incompatibility with Spring Cloud starters
 
