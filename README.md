@@ -40,3 +40,27 @@ warning: Clone succeeded, but checkout failed.
 You can inspect what was checked out with 'git status'
 and retry the checkout with 'git checkout -f HEAD'
 ```
+
+### SDKMAN always reports offline on Windows
+
+No idea how to work around this, other than "Manually manage all your tools and frameworks on Windows." 
+
+```shell-session
+$ set | grep -i 'http.*_proxy'
+HTTPS_PROXY=http://localhost:3128
+HTTP_PROXY=http://localhost:3128
+http_proxy=http://localhost:3128
+https_proxy=http://localhost:3128
+
+$ sdk install springboot
+==== INTERNET NOT REACHABLE! ===============================
+
+ Some functionality is disabled or only partially available.
+ If this persists, please enable the offline mode:
+
+   $ sdk offline
+
+============================================================
+
+This command is not available while offline.
+```
